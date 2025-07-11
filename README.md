@@ -19,6 +19,8 @@ Deletar cliente
 Buscar endereço automaticamente via CEP (API ViaCEP)
 Interface responsiva com Bootstrap 5
 
+*Para execução direta do ambiente recomenda-se a execução de npx create-react-app sesc-clientes-crud a partir do diretório do projeto, em seguida já dentro do diretório startar com npm start* 
+
 ## BACKEND
 
 Rota principal criada, rotas internas e serviços também criados, porém infelizmente não houve tempo para sincronizar e integrar back com front. Embora o projeto de back tenha sido iniciado e disponibilizado no diretório.
